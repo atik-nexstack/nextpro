@@ -14,6 +14,9 @@ export default function Home() {
             <Link href="#" className="text-sm font-medium hover:text-blue-600 dark:hover:text-blue-400">
               Home
             </Link>
+            <Link href="/products" className="text-sm font-medium hover:text-blue-600 dark:hover:text-blue-400">
+              Products
+            </Link>
             <Link href="#services" className="text-sm font-medium hover:text-blue-600 dark:hover:text-blue-400">
               Services
             </Link>
